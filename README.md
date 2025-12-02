@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mary Abenawa Techiesiwa Amoah
-- 🌱 Interested in cyber security and forensics as well as AI.
+- 🌱 Interested in cyber security, digital forensics as well as AI.
 - 💞️ I’m looking to collaborate on insightful projects that will enable me learch new things and experience people with fascinating ideas that will help my career.
 - 📫 How to reach me techiesiwaamoah@gmail.com
 
