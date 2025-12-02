@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mary Abenawa Techiesiwa Amoah
-- 👀 I’m interested in technology and forensics.
-- 🌱 I’m currently learning cyber security and forensics as well as software engineering.
+- 🌱 Interested in cyber security and forensics as well as AI.
 - 💞️ I’m looking to collaborate on insightful projects that will enable me learch new things and experience people with fascinating ideas that will help my career.
-- 📫 How to reach me @AbenawaA on twitter and techiesiwaamoah@gmail.com
+- 📫 How to reach me techiesiwaamoah@gmail.com
 
 <!---
 maryamoah/maryamoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
